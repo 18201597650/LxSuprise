@@ -1,0 +1,4 @@
+rootProject.name = "LxSuprise"
+include ':app'
+include ':module_suprise'
+include ':export_suprise'
